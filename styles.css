@@ -1,0 +1,32 @@
+body {
+    background-color: #FEFBE9;
+} 
+
+hr {
+    height: 0px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #F0A04B;
+    border-width: 7px;
+}
+
+h3
+    {
+        color: #F0A04B;
+        font-family: federo;
+    }
+
+h1
+    {
+        color: #F0A04B;
+        font-family: federo;
+    }
+
+button
+     {
+        height: 50px;
+
+      }
+
+<a style ="text-decorationLnone;">
